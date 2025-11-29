@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "chatmepro",
+    "slug": "chatmepro",
+    "platforms": ["android", "ios", "web"],
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "orientation": "portrait",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.clyde6205.chatmepro" }
+  }
+}
