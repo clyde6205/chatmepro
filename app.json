@@ -14,15 +14,12 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.yourusername.chatmepro",
+      "package": "com.clyde6205.chatmepro",
       "versionCode": 1
     },
     "web": {
@@ -41,9 +38,9 @@
       "streamApiKey": "evp75s8vw5jc"
     },
     "sdkVersion": "54.0.0",
-    "platforms": ["android", "ios"],
-    "description": "Reliable offline-first messenger for global connectivity.",
-    "githubUrl": "https://github.com/yourusername/chatmepro",
+    "platforms": ["android"],
+    "description": "Reliable offline-first messenger for rural farmers and global users with unstable networks.",
+    "githubUrl": "https://github.com/clyde6205/chatmepro",
     "androidStatusBar": {
       "backgroundColor": "#ffffff",
       "barStyle": "dark-content"
