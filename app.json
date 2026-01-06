@@ -39,7 +39,7 @@
     },
     "sdkVersion": "54.0.0",
     "platforms": ["android"],
-    "description": "Reliable offline-first messenger for rural farmers and global users with unstable networks.",
+    "description": "Reliable offline-first messenger built for rural African farmers and communities with unstable networks.",
     "githubUrl": "https://github.com/clyde6205/chatmepro",
     "androidStatusBar": {
       "backgroundColor": "#ffffff",
